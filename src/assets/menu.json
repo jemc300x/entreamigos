@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Smoothie de Arandano",
+    "category": "smoothie",
+    "description": "Rico Smothies de arándanos con plátano. Puedes elegir entre su versión con yogurt o leche.",
+    "imagen": "smoothies-arandanos.jpeg",
+    "phoneNumber": "961013086"
+  },
+  {
+    "name": "Ensalada de Atún",
+    "category": "desayuno",
+    "description": "Deliciosa y saludable. Ensalada de atún, acompañada de huevo cocido, cebolla, tomate y lechuga finamente picada. Para aderezar, puedes elegir entre una mezcla de aceite de oliva y vinagre de manzana o queso crema y mostaza.",
+    "imagen": "ensalada-de-atun.jpeg",
+    "phoneNumber": "961013086"
+  },
+  {
+    "name": "Jugos de frutos naranja",
+    "category": "bebida",
+    "description": "Jugo de frutos naranja. Una combinación de lo nutritivo con lo refrescante. Como base líquida, un rico sumo de naranja, con melón, zanahoria, y kion.",
+    "imagen": "jugo-de-frutos-naranja.jpeg",
+    "phoneNumber": "961013086"
+  },
+  {
+    "name": "Ensalada César",
+    "category": "desayuno",
+    "description": "Rica ensalada César. Con trozos de pollo a la plancha, lechuga y crotones. Aderezado con nuestra rica combinación de miel, mostaza y queso crema.",
+    "imagen": "ensalada-cesar.jpeg",
+    "phoneNumber": "961013086"
+  },
+  {
+    "name": "Jugo de frutos rojos",
+    "category": "bebida",
+    "description": "Rico jugo de frutos rojos. Zumo de naranja como base líquida, combinado con betarraga, fresa, zanahoria y arándanos.",
+    "imagen": "jugo-de-frutos-rojos.jpeg",
+    "phoneNumber": "961013086"
+  },
+  {
+    "name": "Huevos rancheros",
+    "category": "desayuno",
+    "description": "Huevos rancheros. Una forma diferente de comer los huevos. Cocidos en un ahogado de cebolla y tomate, acompañada de tocino y pan tajado, hecho de Forma artesanal. Puedes comerlo con nuestra mantequilla de zapallo o el tradicional guacamole.",
+    "imagen": "huevos-rancheros.jpeg",
+    "phoneNumber": "961013086"
+  }
+]

@@ -1,0 +1,28 @@
+<section class="menu">
+
+  <div class="categories">
+    <h2>Categoría</h2>
+    <div class="categories_container">
+      <div class="category" *ngFor="let category of categories" (click)="onSelectCategory(category)"
+        [class.selected]="category.name === currentCategory?.name">
+        <h3>{{ category.name }}</h3>
+      </div>
+    </div>
+  </div>
+
+  <div class="items">
+    <div class="item" *ngFor="let item of currentItems" (click)="onSelectItem(item)"
+      [class.selected]="item.name === currentItem?.name">
+      <img [src]="item.imagen | image" [alt]="item.name">
+      <div class="footer" [class.show]="item.name === currentItem?.name">
+        <div class="description">
+          <p>{{ item.description }}</p>
+        </div>
+        <div class="actions-buttons">
+          <button (click)="onMakeAnOrder(item)">Hacer Pedido</button>
+        </div>
+      </div>
+    </div>
+  </div>
+
+</section>
