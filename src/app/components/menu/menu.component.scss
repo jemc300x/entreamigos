@@ -15,12 +15,12 @@
       .category {
         flex: 0 0 auto;
         width: 100px;
-        height: 70px;
+        height: 50px;
         border: 1px solid #000;
         border-radius: 0.5rem;
         cursor: pointer;
         text-align: center;
-        line-height: 4rem;
+        line-height: 3rem;
       }
       .category.selected {
         box-shadow: 0 0 6px rgba(0, 0, 0, 0.7);

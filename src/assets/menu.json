@@ -40,5 +40,26 @@
     "description": "Huevos rancheros. Una forma diferente de comer los huevos. Cocidos en un ahogado de cebolla y tomate, acompañada de tocino y pan tajado, hecho de Forma artesanal. Puedes comerlo con nuestra mantequilla de zapallo o el tradicional guacamole.",
     "imagen": "huevos-rancheros.jpeg",
     "phoneNumber": "961013086"
+  },
+  {
+    "name": "Milkshake Torta Suiza",
+    "category": "milkshake",
+    "description": "Delicioso milkshake tamaño especial, sabor a torta suiza a base de helado, con crema batida fresas, barquillos y galletas de topping.",
+    "imagen": "milkshake-torta-suiza.jpeg",
+    "phoneNumber": "979145253"
+  },
+  {
+    "name": "Milkshake de Chocolate",
+    "category": "milkshake",
+    "description": "Delicioso milkshake a base de helado, sabor a chocolate con topping de crema batida y galletas de chocolate como adorno",
+    "imagen": "milkshake-chocolate.jpeg",
+    "phoneNumber": "979145253"
+  },
+  {
+    "name": "Milkshake de Fresa",
+    "category": "milkshake",
+    "description": "Delicioso batido a base de helado con fresas. Acompañado de toppings de crema batida con dulces de tu preferencia. Ideal para refrescar el paladar y disfrutar esta explosión de sabores.",
+    "imagen": "milkshake-fresa.jpeg",
+    "phoneNumber": "979145253"
   }
 ]
